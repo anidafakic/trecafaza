@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: rooms-depl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: roomservice
+  template:
+    metadata:
+      labels:
+        app: roomservice
+    spec:
+      containers:
+        - name: roomservice
+          image: anidafakic/roomservice:latest
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: rooms-clusterip-srv
+spec:
+  type: ClusterIP
+  selector:
+    app: roomservice
+  ports:
+    - name: roomservice
+      protocol: TCP
+      port: 8080
+      targetPort: 8080

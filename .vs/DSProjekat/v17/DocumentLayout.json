@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anida\\Downloads\\DSProjekat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\roomservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\guestservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\guestservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\roomservice\\roomservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\roomservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\asyncdataservices\\messagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\asyncdataservices\\messagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\profiles\\guestprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\profiles\\guestprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\roomservice\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\controllers\\guestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\dtos\\guestpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\dtos\\guestpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\asyncdataservices\\imessagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\asyncdataservices\\imessagebusclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\roomservice\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\roomservice\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\roomservice\\profiles\\roomprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\profiles\\roomprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\roomservice\\dtos\\guestpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\dtos\\guestpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\dtos\\guestreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\dtos\\guestreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\data\\guestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\data\\guestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\data\\iguestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\data\\iguestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\roomservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\roomservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\syncdataservices\\httproomdataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\syncdataservices\\httproomdataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\guestservice\\syncdataservices\\http\\iroomdataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F7870-A1BC-4F62-BAA0-737D33CC293C}|GuestService\\GuestService.csproj|solutionrelative:guestservice\\syncdataservices\\http\\iroomdataclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|c:\\users\\anida\\downloads\\dsprojekat\\roomservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D185C83A-AE27-4E0E-B8DA-993F69592EC2}|RoomService\\RoomService.csproj|solutionrelative:roomservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuestService.csproj",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\GuestService.csproj",
+              "RelativeDocumentMoniker": "GuestService\\GuestService.csproj",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\GuestService.csproj",
+              "RelativeToolTip": "GuestService\\GuestService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-31T11:41:52.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomService.csproj",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\RoomService.csproj",
+              "RelativeDocumentMoniker": "RoomService\\RoomService.csproj",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\RoomService.csproj",
+              "RelativeToolTip": "RoomService\\RoomService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-31T11:41:46.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "GuestService\\Controllers\\GuestController.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "GuestService\\Controllers\\GuestController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwCUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:59:20.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RoomService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RoomService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvygAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T17:10:54.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMessageBusClient.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\AsyncDataServices\\IMessageBusClient.cs",
+              "RelativeDocumentMoniker": "GuestService\\AsyncDataServices\\IMessageBusClient.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\AsyncDataServices\\IMessageBusClient.cs",
+              "RelativeToolTip": "GuestService\\AsyncDataServices\\IMessageBusClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:29:18.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "RoomService\\Controllers\\RoomController.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "RoomService\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:35:38.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Roomprofile.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\Profiles\\Roomprofile.cs",
+              "RelativeDocumentMoniker": "RoomService\\Profiles\\Roomprofile.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\Profiles\\Roomprofile.cs",
+              "RelativeToolTip": "RoomService\\Profiles\\Roomprofile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:55:41.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageBusClient.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\AsyncDataServices\\MessageBusClient.cs",
+              "RelativeDocumentMoniker": "GuestService\\AsyncDataServices\\MessageBusClient.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\AsyncDataServices\\MessageBusClient.cs",
+              "RelativeToolTip": "GuestService\\AsyncDataServices\\MessageBusClient.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwCUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:30:10.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrepDb.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\Data\\PrepDb.cs",
+              "RelativeDocumentMoniker": "GuestService\\Data\\PrepDb.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\Data\\PrepDb.cs",
+              "RelativeToolTip": "GuestService\\Data\\PrepDb.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCQAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:45:18.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GuestController.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\Controllers\\GuestController.cs",
+              "RelativeDocumentMoniker": "RoomService\\Controllers\\GuestController.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\Controllers\\GuestController.cs",
+              "RelativeToolTip": "RoomService\\Controllers\\GuestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T17:10:44.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GuestPublishedDto.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\DTOs\\GuestPublishedDto.cs",
+              "RelativeDocumentMoniker": "GuestService\\DTOs\\GuestPublishedDto.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\DTOs\\GuestPublishedDto.cs",
+              "RelativeToolTip": "GuestService\\DTOs\\GuestPublishedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:26:04.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\Dockerfile",
+              "RelativeDocumentMoniker": "GuestService\\Dockerfile",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\Dockerfile",
+              "RelativeToolTip": "GuestService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-31T04:20:46.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuestProfile.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\Profiles\\GuestProfile.cs",
+              "RelativeDocumentMoniker": "GuestService\\Profiles\\GuestProfile.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\Profiles\\GuestProfile.cs",
+              "RelativeToolTip": "GuestService\\Profiles\\GuestProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:27:10.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "RoomService\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\Models\\Room.cs",
+              "RelativeToolTip": "RoomService\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:29:29.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GuestPublishedDto.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\DTOs\\GuestPublishedDto.cs",
+              "RelativeDocumentMoniker": "RoomService\\DTOs\\GuestPublishedDto.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\DTOs\\GuestPublishedDto.cs",
+              "RelativeToolTip": "RoomService\\DTOs\\GuestPublishedDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:28:34.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "GuestService\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\appsettings.Production.json",
+              "RelativeToolTip": "GuestService\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T12:18:54.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGuestRepo.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\Data\\IGuestRepo.cs",
+              "RelativeDocumentMoniker": "GuestService\\Data\\IGuestRepo.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\Data\\IGuestRepo.cs",
+              "RelativeToolTip": "GuestService\\Data\\IGuestRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T23:22:11.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GuestRepo.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\Data\\GuestRepo.cs",
+              "RelativeDocumentMoniker": "GuestService\\Data\\GuestRepo.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\Data\\GuestRepo.cs",
+              "RelativeToolTip": "GuestService\\Data\\GuestRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T20:37:13.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GuestReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\DTOs\\GuestReadDto.cs",
+              "RelativeDocumentMoniker": "GuestService\\DTOs\\GuestReadDto.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\DTOs\\GuestReadDto.cs",
+              "RelativeToolTip": "GuestService\\DTOs\\GuestReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T21:01:06.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RoomService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\appsettings.Development.json",
+              "RelativeToolTip": "RoomService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T17:10:43.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\appsettings.json",
+              "RelativeDocumentMoniker": "GuestService\\appsettings.json",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\appsettings.json",
+              "RelativeToolTip": "GuestService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T16:54:12.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HttpRoomDataClient.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\SyncDataServices\\HttpRoomDataClient.cs",
+              "RelativeDocumentMoniker": "GuestService\\SyncDataServices\\HttpRoomDataClient.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\SyncDataServices\\HttpRoomDataClient.cs",
+              "RelativeToolTip": "GuestService\\SyncDataServices\\HttpRoomDataClient.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:54:13.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IRoomDataClient.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\SyncDataServices\\Http\\IRoomDataClient.cs",
+              "RelativeDocumentMoniker": "GuestService\\SyncDataServices\\Http\\IRoomDataClient.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\GuestService\\SyncDataServices\\Http\\IRoomDataClient.cs",
+              "RelativeToolTip": "GuestService\\SyncDataServices\\Http\\IRoomDataClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T16:54:20.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\Program.cs",
+              "RelativeDocumentMoniker": "RoomService\\Program.cs",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\Program.cs",
+              "RelativeToolTip": "RoomService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T20:43:24.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\appsettings.json",
+              "RelativeDocumentMoniker": "RoomService\\appsettings.json",
+              "ToolTip": "C:\\Users\\anida\\Downloads\\DSProjekat\\RoomService\\appsettings.json",
+              "RelativeToolTip": "RoomService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T17:10:49.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: guests-depl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: guestservice
+  template:
+    metadata:
+      labels:
+        app: guestservice
+    spec:
+      containers:
+        - name: guestservice
+          image: anidafakic/guestservice:1.0
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: guests-clusterip-srv
+spec:
+  type: ClusterIP
+  selector:
+    app: guestservice
+  ports:
+    - name: guestservice
+      protocol: TCP
+      port: 8080
+      targetPort: 8080
